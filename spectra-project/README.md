@@ -1,6 +1,6 @@
 # Spectra project
 
-Part of the workshop repo, folder `part2/spectra-project`. Get it with **Code → Download ZIP** (then open that folder) or `git clone`.
+Part of the workshop repo, folder `spectra-project`. Get it with **Code → Download ZIP** (then open that folder) or `git clone`.
 
 Plot emission spectra (NanoLuc, EGFP) in one consistent style.
 
